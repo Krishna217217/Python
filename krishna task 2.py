@@ -6,4 +6,4 @@
 '''
 str_1="hello world!"
 str_2=str_1[6:11]
-print(str_2+"everyone")
+print(str_2+"everyone!")
