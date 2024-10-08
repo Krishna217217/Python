@@ -5,8 +5,8 @@
 Simple desktop calculator using Python
 '''
 
-first_name="k"
-last_name="krishna"
+first_name=("enter your first name")
+last_name=("enter your last name")
 full_name=first_name+" "+last_name
 print(full_name)
 length=len(first_name)
