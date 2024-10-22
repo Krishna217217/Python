@@ -1,5 +1,5 @@
 '''
-phython program to convert temperature values back and forth between Celsius and Fahrenheit
+Python program to find the largest of three numbers
 '''
 
 num1=int(input("enter a number"))
